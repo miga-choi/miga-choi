@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, World! <img class="emoji" title=":octocat:" alt=":octocat:" src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="20" height="20" align="absmiddle">
 
 <!--
 **miga-choi/miga-choi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
